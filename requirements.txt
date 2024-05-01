@@ -1,0 +1,10 @@
+openai
+python-dotenv
+datasets
+pandas
+transformers
+torch
+torchvision
+torchaudio
+tqdm
+matplotlib
