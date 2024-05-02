@@ -16,3 +16,5 @@ OPENAI_API_KEY=sk-xxxx
 ```
 
 Then, run the notebooks using VSCode. 
+
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
