@@ -1,3 +1,4 @@
+-r requirements-torch.txt
 openai
 python-dotenv
 datasets
